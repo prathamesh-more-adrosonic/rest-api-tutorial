@@ -1,0 +1,30 @@
+{
+  "name": "rest-api-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial dummy app for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamesh-more-adrosonic/rest-api-tutorial.git"
+  },
+  "author": "Prathamesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamesh-more-adrosonic/rest-api-tutorial/issues"
+  },
+  "homepage": "https://github.com/prathamesh-more-adrosonic/rest-api-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.23.0",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.2",
+    "node-uuid": "^1.4.8",
+    "swagger-ui-express": "^4.0.2",
+    "sync-request": "^6.0.0"
+  }
+}
